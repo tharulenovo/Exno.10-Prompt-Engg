@@ -11,13 +11,9 @@ Select a Topic: Choose a subject area for content generation (e.g., Artificial I
 
 Apply Basic Prompt: Example: “Write an article about the use of AI in education.”
 
-Apply Refined Prompt (Using Patterns): Example using Persona + Query Decomposition: “Act as an educational researcher. Write a detailed case study on how AI tools like ChatGPT and personalized learning systems 
+Apply Refined Prompt (Using Patterns): Example using Persona + Query Decomposition: “Act as an educational researcher. Write a detailed case study on how AI tools like ChatGPT and personalized learning systems are transforming classroom teaching. Include advantages, challenges, and real-world examples.”
 
-are transforming classroom teaching. Include advantages, challenges, and real-world examples.”
-
-Apply Semantic Filtering and Refinement: Add constraints or focus areas to improve content accuracy. Example: “Focus on ethical implications, student engagement, and data privacy concerns in AI-powered education 
-
-systems.”
+Apply Semantic Filtering and Refinement: Add constraints or focus areas to improve content accuracy. Example: “Focus on ethical implications, student engagement, and data privacy concerns in AI-powered education systems.”
 
 Generate and Compare Outputs: Observe differences in depth, tone, and organization between basic and refined prompts.
 
